@@ -1,6 +1,6 @@
-package Database;
+package database;
 
-import static Database.Type.*;
+import static database.Type.*;
 
 
 public enum Species {
@@ -59,7 +59,7 @@ public enum Species {
         this.index = this.ordinal();
         this.primaryType = primaryType;
         this.secondaryType = secondaryType;
-        this.availableMoves = Database.Data.pokemonAvailableMoves[index];
+        this.availableMoves = database.Data.pokemonAvailableMoves[index];
     }
 };
 
