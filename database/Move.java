@@ -1,6 +1,6 @@
-package Database;
+package database;
 
-import Mechanics.Pokemon;
+import mechanics.Pokemon;
 
 import java.util.Random;
 
