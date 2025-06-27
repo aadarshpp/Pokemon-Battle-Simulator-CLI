@@ -1,7 +1,7 @@
 package database;
 
-import static Database.Move.*;
-import static Database.Move.Psychic;
+import static database.Move.*;
+import static database.Move.Psychic;
 
 public class Data{
 
