@@ -1,6 +1,6 @@
-package Mechanics;
+package mechanics;
 
-import Database.*;
+import database.*;
 import java.util.Scanner;
 
 public class Main {
