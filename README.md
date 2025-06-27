@@ -135,6 +135,6 @@ src/
 ## 📌 Future Plans
 
 * Complete the GUI version.
-* Add AI difficulty levels.
+* Add the computer as an opponent.
 * Add more Pokémon and moves.
 * Implement saving/loading battles.
