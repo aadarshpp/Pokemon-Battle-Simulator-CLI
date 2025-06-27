@@ -1,6 +1,6 @@
-package Database;
+package database;
 
-import static Database.Type.*;
+import static database.Type.*;
 
 
 public enum Species {
