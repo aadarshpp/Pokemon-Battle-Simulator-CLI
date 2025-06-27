@@ -4,7 +4,7 @@ A command-line based two-player Pokémon battle game written in Java. Players ch
 
 ---
 
-## 📸 Demo
+## 📸 Abbreviated Demo
 
 ```
 ==============================================================================
