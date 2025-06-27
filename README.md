@@ -127,7 +127,6 @@ src/
 ## ⚠️ Notes
 
 * The game uses **SET mode** (switching forfeits your attack turn).
-* Input validation is basic — invalid choices will cause the turn to restart.
 * The project is currently CLI only. A GUI version with a computer opponent is in development.
 
 ---
