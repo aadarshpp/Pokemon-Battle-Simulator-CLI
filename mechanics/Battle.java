@@ -1,6 +1,6 @@
-package Mechanics;
+package mechanics;
 
-import Database.Move;
+import database.Move;
 
 import java.util.Random;
 import java.util.Scanner;
