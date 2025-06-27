@@ -1,4 +1,4 @@
-package Mechanics;
+package mechanics;
 
 
 import java.util.Random;
