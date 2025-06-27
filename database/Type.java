@@ -1,6 +1,6 @@
-package Database;
+package database;
 
-import Mechanics.Pokemon;
+import mechanics.Pokemon;
 
 public enum Type{
     NORMAL, FIRE, WATER, GRASS, ELECTRIC, GROUND, ROCK,
