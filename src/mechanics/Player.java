@@ -1,4 +1,4 @@
-package Mechanics;
+package mechanics;
 
 public class Player{
     String name;
