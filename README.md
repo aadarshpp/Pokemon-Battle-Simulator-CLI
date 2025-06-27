@@ -137,4 +137,3 @@ src/
 * Complete the GUI version.
 * Add the computer as an opponent.
 * Add more Pokémon and moves.
-* Implement saving/loading battles.
