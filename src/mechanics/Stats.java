@@ -23,7 +23,7 @@ public class Stats{
 
     public float calcCriticalHitValue(){
         float probability = (float) speed /512;
-        probability = 6.12f/100;
+        // probability = 6.12f/100;
         if(new Random().nextFloat() <=probability)
         {return 1.5f;}
         return 1;
